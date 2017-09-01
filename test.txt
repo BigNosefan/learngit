@@ -1,2 +1,6 @@
 dev branch
+<<<<<<< HEAD
 learngit
+=======
+another
+>>>>>>> 8ced2c440d16fc0bf062ae657ee5a2c1ad804ee5
